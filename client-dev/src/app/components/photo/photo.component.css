@@ -1,0 +1,145 @@
+.content{
+    position: relative;
+    width: 100%;
+    height: 100%;
+
+    background: #FAFAFB;
+    border-radius: 8px;
+}
+.content .foto{
+    position: absolute;
+    width: 402px;
+    height: 469px;
+    left: 40%;
+    top: 300px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+    border-radius: 12px;
+}
+
+.content .foto label{
+    position: absolute;
+    width: 100%;
+    height: 26.99px;
+    top: 36px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    /* identical to box height */
+
+    letter-spacing: -0.035em;
+
+    /* Gray 2 */
+
+    color: #4F4F4F;
+}
+
+.content .foto span{
+    position: absolute;
+    width: 100%;
+    height: 14.99px;
+    top: 78.98px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 15px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: -0.035em;
+
+    /* Gray 3 */
+
+    color: #828282;
+}
+
+.content .foto .drag_drop{
+    position: absolute;
+    width: 338px;
+    height: 218.9px;
+    left: 32px;
+    top: 123.59px;
+
+    background: #F6F8FB;
+    border: 1px dashed #97BEF4;
+    box-sizing: border-box;
+    border-radius: 12px;
+}
+
+.content .foto .drag_drop span{
+    position: absolute;
+    width: 166.01px;
+    height: 17.99px;
+    left: 91.35px;
+    top: 161.34px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height */
+    
+    letter-spacing: -0.035em;
+    
+    /* Gray 4 */
+    
+    color: #BDBDBD;  
+}
+
+.content .foto input{
+
+}
+
+.content .foto .or{
+    position: absolute;
+    width: 14px;
+    height: 17.99px;
+    left: 194px;
+    top: 361.4px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height */
+    
+    text-align: center;
+    letter-spacing: -0.035em;
+    
+    /* Gray 4 */
+    
+    color: #BDBDBD;    
+}
+
+.content .foto button{
+    position: absolute;
+    width: 101px;
+    height: 31.98px;
+    left: 150.82px;
+    top: 401.02px;
+
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: -0.035em;
+
+    color: #FFFFFF;
+
+    /* Blue 1 */
+
+    background: #2F80ED;
+    border-radius: 8px;
+}
+
